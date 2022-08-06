@@ -1,6 +1,7 @@
 body {
     margin: 0;
     line-height: normal;
+   
 }
 .ellipse-icon,
 .ellipse-icon1 {
@@ -113,10 +114,23 @@ body {
 
 }
 .self-storage-business_2 {
-    left:10px;
-    top: 554px;
+    left:auto
+    top: 454px;
     font-size: 25px;
     color: #021850;
+}
+.self-storage-business_22 {
+   
+    left:-20px; top: 354px;
+    font-size: 25px;
+    color: #021850;
+}
+.self-storage-business_21 {
+    
+    left: 0;
+    top: 4px;
+    font-size: 16px;
+    
 }
     .buy-sell-learn {
     margin: 0;
@@ -361,7 +375,7 @@ body {
   max-height: 100%;
 }
 .group-div6 {
-  position: absolute;
+  position:absolute;
   height: 33.94%;
   width: 81.87%;
   top: 0;
@@ -876,7 +890,7 @@ body {
   position: absolute;
   top: 1px;
   left: 15px;
-  width: 1250px;
+  width: 1200px;
   height: 1634px;
   object-fit: cover;
 }
@@ -1009,7 +1023,7 @@ body {
   border-radius: 10px;
 }
 .frame-div8 {
-  top: 1228px;
+  top: 1200px;
   left: 452px;
   background-color: #ffce31;
   border: 1px solid rgba(255, 251, 251, 0.9);
@@ -1132,13 +1146,13 @@ body {
   left: 66.42%;
 }
 .frame-div6 {
-  position: absolute;
-  top: calc(50% - 1903.5px);
-  left: -15px;
-  width: 1230px;
-  height: 1635px;
-  overflow: hidden;
-  text-align: center;
+    position: inherit;
+    top: calc(50% - 1903.5px);
+    left: 3%;);
+    width: 1200px;
+    height: 1635px;
+    overflow: hidden;
+    text-align: center;
 }
 .ellipse-icon3 {
   position: absolute;
@@ -1151,7 +1165,7 @@ body {
 .pngwing-icon {
   position: absolute;
   top: 225px;
-  left: 780px;
+  left: 580px;
   width: 523px;
   height: 600px;
   object-fit: cover;
@@ -1163,7 +1177,7 @@ body {
 }
 .do-you-have-a-self-storage-for {
     position: absolute;
-    top: 221px;
+    top: 121px;
     left: 200px;
     line-height: 33px;
     font-weight: 400;
@@ -1174,7 +1188,7 @@ body {
 .pngwing-icon1 {
   position: absolute;
   top: 398px;
-  left: 747px;
+  left: 547px;
   width: 679px;
   height: 452px;
   object-fit: cover;
@@ -1182,7 +1196,7 @@ body {
 .frame-div15 {
     position: absolute;
     top: 350px;
-    left: 50px;
+    left: 4%;
     border-radius: 10px;
     background-color: #1849c6;
     border: 1px solid #e8efff;
@@ -1209,10 +1223,10 @@ body {
 .frame-div14 {
   position: absolute;
   top: calc(50% - 268.5px);
-  left: calc(50% - 741px);
+  left:4%;
   border-radius: 0 0 300px 0;
   background-color: #e8efff;
-  width: 1341px;
+  width: 1200px;
   height: 850px;
   overflow: hidden;
   font-size: 35px;
@@ -1247,7 +1261,7 @@ body {
 .frame-div16 {
   position: absolute;
   top: 3687px;
-  left: -57px;
+  left: 4%;
   width: 1200px;
   height: 1018px;
   overflow: hidden;
@@ -1408,7 +1422,7 @@ body {
 .frame-div18 {
   position: absolute;
   top: 354.34px;
-  left: 37.02px;
+  left: 3%;
   border-radius: 10px;
   background-color: #1849c6;
   border: 1px solid #e8efff;
@@ -1891,7 +1905,7 @@ body {
 .frame-div17 {
   position: absolute;
   top: calc(50% - -1231.5px);
-  left: -3px;
+  left: 3%;
   border-radius: 350px 0 0 0;
   background-color: #1849c6;
   width: 1200px;
@@ -2000,9 +2014,9 @@ body {
 .frame-div23 {
   position: absolute;
   top: calc(50% - -2253.5px);
-  left: -3px;
+  left: 3%;
   background: linear-gradient(#e8efff, #e8efff), #fff;
-  width: 1234px;
+  width: 1200px;
   height: 654px;
   overflow: hidden;
   font-size: 24px;
