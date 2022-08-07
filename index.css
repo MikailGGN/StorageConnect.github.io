@@ -381,7 +381,7 @@ body {
   top: 0;
   right: 17.43%;
   bottom: 66.06%;
-  left: 3%;
+  left: .9%;
 }
 .size-span {
   font-weight: 500;
@@ -1150,7 +1150,7 @@ body {
     top: calc(50% - 1903.5px);
     left: 7.7%;);
     margin-left:6%;
-    width: 1200px;
+    width: 1440px;
     height: 1635px;
     overflow: hidden;
     text-align: center;
