@@ -1149,6 +1149,7 @@ body {
     position: inherit;
     top: calc(50% - 1903.5px);
     left: 3%;);
+    margin-left:6%;
     width: 1200px;
     height: 1635px;
     overflow: hidden;
